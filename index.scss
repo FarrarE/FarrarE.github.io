@@ -7,6 +7,23 @@
     margin-top:1rem;
 }
 
+.navbar{
+    .navbar-inner{
+        display:flex;
+        li{
+            margin-left:1rem;
+        }
+    }
+}
+
+a:link {
+    color:black;
+}
+  
+a:visited {
+    color:black;
+}
+
 .footer-icons{
     display:flex;
     justify-content: space-between;
